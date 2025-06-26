@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-MultiplayerSessions-0002.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Duaren\Intermediate\Build\Win64\x64\DuarenEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"E:\Duaren\Plugins\MultiplayerSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\MultiplayerSessions\Module.MultiplayerSessions.cpp.obj"
+"E:\Duaren\Plugins\MultiplayerSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\MultiplayerSessions\Menu.cpp.obj"
+"E:\Duaren\Plugins\MultiplayerSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\MultiplayerSessions\MultiplayerSessions.cpp.obj"
+"E:\Duaren\Plugins\MultiplayerSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\MultiplayerSessions\MultiplayerSessionsSubsystem.cpp.obj"
+"E:\Duaren\Plugins\MultiplayerSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\MultiplayerSessions\Default.rc2.res"
+/OUT:"E:\Duaren\Plugins\MultiplayerSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\MultiplayerSessions\UnrealEditor-MultiplayerSessions-0002.lib"
