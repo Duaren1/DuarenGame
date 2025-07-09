@@ -8,8 +8,6 @@
 /NODEFAULTLIB
 "E:\Duaren\Intermediate\Build\Win64\x64\DuarenEditor\DebugGame\UnrealEd\SharedPCH.UnrealEd.Project.NonOptimized.ValApi.Cpp20.h.obj"
 "E:\Duaren\Plugins\MultiplayerSessions\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\MultiplayerSessions\Module.MultiplayerSessions.cpp.obj"
-"E:\Duaren\Plugins\MultiplayerSessions\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\MultiplayerSessions\Menu.cpp.obj"
-"E:\Duaren\Plugins\MultiplayerSessions\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\MultiplayerSessions\MultiplayerSessions.cpp.obj"
 "E:\Duaren\Plugins\MultiplayerSessions\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\MultiplayerSessions\MultiplayerSessionsSubsystem.cpp.obj"
 "E:\Duaren\Plugins\MultiplayerSessions\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\MultiplayerSessions\Default.rc2.res"
 /OUT:"E:\Duaren\Plugins\MultiplayerSessions\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\MultiplayerSessions\UnrealEditor-MultiplayerSessions-Win64-DebugGame.lib"

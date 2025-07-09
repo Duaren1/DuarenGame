@@ -1,11 +1,11 @@
-"E:\Duaren\Plugins\MultiplayerSessions\Source\MultiplayerSessions\Private\Menu.cpp"
-/FI"E:\Duaren\Intermediate\Build\Win64\x64\DuarenEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
-/FI"E:\Duaren\Plugins\MultiplayerSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\MultiplayerSessions\Definitions.MultiplayerSessions.h"
-/Yu"E:\Duaren\Intermediate\Build\Win64\x64\DuarenEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
-/Fp"E:\Duaren\Intermediate\Build\Win64\x64\DuarenEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
-/Fo"E:\Duaren\Plugins\MultiplayerSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\MultiplayerSessions\Menu.cpp.obj"
-/sourceDependencies "E:\Duaren\Plugins\MultiplayerSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\MultiplayerSessions\Menu.cpp.dep.json"
-@"E:\Duaren\Plugins\MultiplayerSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\MultiplayerSessions\MultiplayerSessions.Shared.rsp"
+"F:\Duaren\Duaren\Plugins\MultiplayerSessions\Source\MultiplayerSessions\Private\Menu.cpp"
+/FI"F:\Duaren\Duaren\Intermediate\Build\Win64\x64\DuarenEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/FI"F:\Duaren\Duaren\Plugins\MultiplayerSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\MultiplayerSessions\Definitions.MultiplayerSessions.h"
+/Yu"F:\Duaren\Duaren\Intermediate\Build\Win64\x64\DuarenEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/Fp"F:\Duaren\Duaren\Intermediate\Build\Win64\x64\DuarenEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
+/Fo"F:\Duaren\Duaren\Plugins\MultiplayerSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\MultiplayerSessions\Menu.cpp.obj"
+/sourceDependencies "F:\Duaren\Duaren\Plugins\MultiplayerSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\MultiplayerSessions\Menu.cpp.dep.json"
+@"F:\Duaren\Duaren\Plugins\MultiplayerSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\MultiplayerSessions\MultiplayerSessions.Shared.rsp"
 /Zc:inline
 /nologo
 /Oi
